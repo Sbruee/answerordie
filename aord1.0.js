@@ -145,7 +145,121 @@ const footballQuestions = [
 "Nenne 5 Spieler, die bei einer EM gespielt haben.",
 "Nenne 5 Spieler, die für ihre Schnelligkeit bekannt sind.",
 "Nenne 5 Spieler, die für ihre Technik bekannt sind.",
-"Nenne 5 Spieler, die für ihre Kopfballstärke bekannt sind."
+"Nenne 5 Spieler, die für ihre Kopfballstärke bekannt sind.",
+
+  "Nenne 5 Spieler, die in der Serie A spielen.",
+"Nenne 5 Spieler, die in der Ligue 1 spielen.",
+"Nenne 5 Spieler, die in La Liga spielen.",
+"Nenne 5 Spieler, die schon eine rote Karte bekommen haben.",
+"Nenne 5 Spieler, die bekannt für Freistöße sind.",
+
+"Nenne 5 Spieler, die für ihre Dribblings bekannt sind.",
+"Nenne 5 Spieler, die als Innenverteidiger spielen.",
+"Nenne 5 Spieler, die als Außenverteidiger spielen.",
+"Nenne 5 Spieler, die als ZOM spielen.",
+"Nenne 5 Spieler, die als Sechser spielen.",
+
+"Nenne 5 Spieler, die bei einer WM ein Tor geschossen haben.",
+"Nenne 5 Spieler, die bei einer EM ein Tor geschossen haben.",
+"Nenne 5 Spieler, die mehr als 3 Vereine hatten.",
+"Nenne 5 Spieler, die in ihrer Karriere den Verein gewechselt haben.",
+"Nenne 5 Spieler, die aus Deutschland kommen.",
+
+"Nenne 5 Spieler, die aus Frankreich kommen.",
+"Nenne 5 Spieler, die aus Spanien kommen.",
+"Nenne 5 Spieler, die aus England kommen.",
+"Nenne 5 Spieler, die aus Italien kommen.",
+"Nenne 5 Spieler, die aus Brasilien kommen.",
+
+"Nenne 5 Spieler, die aus Argentinien kommen.",
+"Nenne 5 Spieler, die aus Afrika kommen.",
+"Nenne 5 Spieler, die aus Asien kommen.",
+"Nenne 5 Spieler, die aus Nordamerika kommen.",
+"Nenne 5 Spieler, die aus Südamerika kommen.",
+
+"Nenne 5 Vereine mit einem Stadionnamen, der nicht der Vereinsname ist.",
+"Nenne 5 Vereine mit internationalen Titeln.",
+"Nenne 5 Vereine, die in den letzten 10 Jahren Meister wurden.",
+"Nenne 5 Vereine mit berühmten Fans.",
+"Nenne 5 Vereine mit neuen Stadien.",
+
+"Nenne 5 Spieler, die einen Spitznamen haben.",
+"Nenne 5 Spieler, die für ihre Geschwindigkeit bekannt sind.",
+"Nenne 5 Spieler, die für ihre Schusstechnik bekannt sind.",
+"Nenne 5 Spieler, die für ihre Übersicht bekannt sind.",
+"Nenne 5 Spieler, die für ihre Zweikampfstärke bekannt sind.",
+
+"Nenne 5 Spieler, die als Kapitän spielen.",
+"Nenne 5 Spieler, die eine Rückennummer unter 10 haben.",
+"Nenne 5 Spieler, die eine Rückennummer über 20 haben.",
+"Nenne 5 Spieler, die Linksfuß sind.",
+"Nenne 5 Spieler, die Rechtsfuß sind.",
+
+"Nenne 5 Spieler, die in der Jugend bei einem Topclub waren.",
+"Nenne 5 Spieler, die aus einer bekannten Fußballfamilie kommen.",
+"Nenne 5 Spieler, die bei Olympia gespielt haben.",
+"Nenne 5 Spieler, die bei einer U21-EM gespielt haben.",
+"Nenne 5 Spieler, die bei einer Copa America gespielt haben.",
+
+"Nenne 5 Trainer, die mehrere Vereine trainiert haben.",
+"Nenne 5 Trainer, die Nationaltrainer waren.",
+"Nenne 5 Trainer, die aktuell arbeitslos sind.",
+"Nenne 5 Trainer, die für offensive Spielweise stehen.",
+"Nenne 5 Trainer, die für defensive Spielweise stehen.",
+
+"Nenne 5 Fußballländer außerhalb Europas.",
+"Nenne 5 Fußballländer in Europa.",
+"Nenne 5 Länder mit starken Ligen.",
+"Nenne 5 Länder mit bekannten Spielern.",
+"Nenne 5 Länder mit WM-Teilnahmen.",
+
+"Nenne 5 Spieler, die schon gegen ihren Ex-Verein getroffen haben.",
+"Nenne 5 Spieler, die schon im Finale getroffen haben.",
+"Nenne 5 Spieler, die in wichtigen Spielen getroffen haben.",
+"Nenne 5 Spieler, die als Joker eingewechselt wurden.",
+"Nenne 5 Spieler, die als Ersatzspieler bekannt sind.",
+
+"Nenne 5 Vereine mit vielen Titeln.",
+"Nenne 5 Vereine mit großen Rivalitäten.",
+"Nenne 5 Vereine mit vielen Fans weltweit.",
+"Nenne 5 Vereine mit berühmten Spielern.",
+"Nenne 5 Vereine mit langen Traditionen.",
+
+"Nenne 5 Spieler, die sehr teuer transferiert wurden.",
+"Nenne 5 Spieler, die ablösefrei gewechselt sind.",
+"Nenne 5 Spieler, die ausgeliehen wurden.",
+"Nenne 5 Spieler, die lange bei einem Verein geblieben sind.",
+"Nenne 5 Spieler, die ihre Karriere beendet haben.",
+
+"Nenne 5 Spieler, die bei mehreren Turnieren gespielt haben.",
+"Nenne 5 Spieler, die Tore per Kopf erzielen.",
+"Nenne 5 Spieler, die Elfmeter schießen.",
+"Nenne 5 Spieler, die Freistöße schießen.",
+"Nenne 5 Spieler, die Ecken schießen.",
+
+"Nenne 5 bekannte Fußballkommentatoren.",
+"Nenne 5 bekannte Fußballtrainer aktuell.",
+"Nenne 5 bekannte Fußballlegenden aus den 2000ern.",
+"Nenne 5 bekannte Fußballlegenden aus den 2010ern.",
+"Nenne 5 bekannte Fußballlegenden aus den 90ern.",
+
+"Nenne 5 Spieler mit Tattoos.",
+"Nenne 5 Spieler mit auffälligen Frisuren.",
+"Nenne 5 Spieler mit langen Haaren.",
+"Nenne 5 Spieler mit kurzen Haaren.",
+"Nenne 5 Spieler mit Bart.",
+
+"Nenne 5 Spieler, die in großen Finals gespielt haben.",
+"Nenne 5 Spieler, die mehrere Tore in einem Spiel geschossen haben.",
+"Nenne 5 Spieler, die bekannt für Vorlagen sind.",
+"Nenne 5 Spieler, die defensiv stark sind.",
+"Nenne 5 Spieler, die offensiv stark sind.",
+
+"Nenne 5 Vereine aus kleineren Ligen.",
+"Nenne 5 Vereine, die international überraschen.",
+"Nenne 5 Vereine mit jungen Spielern.",
+"Nenne 5 Vereine mit vielen Transfers.",
+"Nenne 5 Vereine, die aktuell erfolgreich sind."
 
 ];
 
